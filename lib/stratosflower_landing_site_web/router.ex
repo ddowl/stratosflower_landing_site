@@ -17,6 +17,9 @@ defmodule StratosflowerLandingSiteWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/bio", PageController, :bio
+    get "/merch", PageController, :merch
+    get "/contact", PageController, :contact
   end
 
   # Other scopes may use custom stacks.
