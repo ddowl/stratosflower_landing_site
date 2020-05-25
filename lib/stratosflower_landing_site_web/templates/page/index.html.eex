@@ -3,3 +3,30 @@
   <p>We are an instrumental rock band from San Francisco.</p>
   <p>You can support us by listening to our music, coming to our shows, and buying our merch.</p>
 </section>
+<ul class="tab-list">
+  <li>
+    <a href="https://www.instagram.com/stratosflower/">
+      <i class="fab fa-7x fa-instagram"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://facebook.com/stratosflower">
+      <i class="fab fa-7x fa-facebook"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://open.spotify.com/artist/1DSWjgaAUOEUzdqPFkpjyo?si=Huq1zfaKStuKkdWiGw_36g">
+      <i class="fab fa-7x fa-spotify"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://stratosflower.bandcamp.com/">
+      <i class="fab fa-7x fa-bandcamp"></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://music.apple.com/us/artist/stratosflower/1474150317">
+      <i class="fab fa-7x fa-itunes-note"></i>
+    </a>
+  </li>
+</ul>

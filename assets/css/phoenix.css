@@ -358,7 +358,6 @@ a:focus, a:hover {
 }
 
 dl, ol, ul {
-  list-style: none;
   margin-top: 0;
   padding-left: 0
 }
@@ -373,7 +372,8 @@ ol {
 }
 
 ul {
-  list-style: circle inside
+  /*list-style: circle inside*/
+  list-style: none
 }
 
 .button, button, dd, dt, li {
@@ -560,7 +560,6 @@ header nav {
 }
 
 header nav ul {
-  list-style: none;
   display: flex;
   justify-content: space-between;
   margin: 1rem;
@@ -578,4 +577,12 @@ header nav li {
   header nav ul {
     flex-direction: column;
   }
+}
+
+/* Home page */
+.tab-list {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
